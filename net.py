@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-# @File : net.py
 # @Brief: 实现模型分类的网络，MAML与网络结构无关，重点在训练过程
 
 from tensorflow.keras import layers, models, losses
