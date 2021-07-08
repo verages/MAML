@@ -24,6 +24,9 @@ pip installl -r requirements.txt
 3. Download the *Omiglot* dataset and maml weights.
 
 ```shell
+wget https://github.com/verages/MAML/releases/download/v0.1/Omniglot.tar
+wget https://github.com/verages/MAML/releases/download/v0.1/maml.h5
+tar -xvf Omniglot.tar
 
 ```
 
