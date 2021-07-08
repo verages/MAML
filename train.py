@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-# @File : train.py
 # @Brief: 训练脚本
 
 from tensorflow.keras import optimizers, utils
